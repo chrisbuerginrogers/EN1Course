@@ -202,6 +202,7 @@
 			<Item Name="CoreFoundation.framework" Type="Document" URL="CoreFoundation.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Open_XControl.xctl" Type="XControl" URL="../_Subs/OpenDiagram/Open_XControl.xctl"/>
 			<Item Name="Tag-i32.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
