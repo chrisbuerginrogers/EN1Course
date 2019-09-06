@@ -35,10 +35,6 @@
 			<Item Name="README.md" Type="Document" URL="../README.md"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="SkylineCluster.ctl" Type="VI" URL="/&lt;userlib&gt;/MicroPython/VIs/SystemLink/SkylineCluster.ctl"/>
-				<Item Name="SystemLinkHTTPComm.ctl" Type="VI" URL="/&lt;userlib&gt;/MicroPython/VIs/SystemLink/SystemLinkHTTPComm.ctl"/>
-			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
