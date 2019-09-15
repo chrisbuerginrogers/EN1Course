@@ -10,29 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="EN1Course" Type="Folder">
-			<Item Name="1. Examples" Type="Folder" URL="../1. Examples">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="2. Tutorials" Type="Folder" URL="../2. Tutorials">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="3. Challenges" Type="Folder" URL="../3. Challenges">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="_Subs" Type="Folder" URL="../_Subs">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="SystemLink" Type="Folder" URL="../SystemLink">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="ThingWorx" Type="Folder" URL="../ThingWorx">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
-			<Item Name="EN1 VIs.vi" Type="VI" URL="../EN1 VIs.vi"/>
-			<Item Name="MasterProject.aliases" Type="Document" URL="../MasterProject.aliases"/>
-			<Item Name="MasterProject.lvlps" Type="Document" URL="../MasterProject.lvlps"/>
-			<Item Name="README.md" Type="Document" URL="../README.md"/>
+		<Item Name="EN1Course" Type="Folder" URL="..">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
