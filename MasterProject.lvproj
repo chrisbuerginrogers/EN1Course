@@ -128,6 +128,7 @@
 			<Item Name="ApplicationServices.framework" Type="Document" URL="ApplicationServices.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="AskForAPIKey.vi" Type="VI" URL="../_Subs/SImpleWatson/SubVIs/AskForAPIKey.vi"/>
 			<Item Name="Carbon.framework" Type="Document" URL="Carbon.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -136,6 +137,7 @@
 			<Item Name="CoreFoundation.framework" Type="Document" URL="CoreFoundation.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="ReadAppKey.vi" Type="VI" URL="../_Subs/SImpleWatson/SubVIs/ReadAppKey.vi"/>
 			<Item Name="Tag-i32.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
